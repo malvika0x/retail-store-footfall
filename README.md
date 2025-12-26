@@ -58,8 +58,8 @@ The data set is very simple and thus amenable to illustrating various ways of do
 
 ## visualisation(Line Plot + Heatmap)
 
--Line Graph: This graph portrays the variation in customer footfall from different hours of the day, indicating when people shop extensively.
--Heatmap: This heatmap helps in indicating the intensity of footfall by using a color scheme where darker shades correspond to greater visits by customers, making peak times easy to identify.
+- Line Graph: This graph portrays the variation in customer footfall from different hours of the day, indicating when people shop extensively.
+- Heatmap: This heatmap helps in indicating the intensity of footfall by using a color scheme where darker shades correspond to greater visits by customers, making peak times easy to identify.
 
 ## Machine Learning Model
  
@@ -68,28 +68,28 @@ The data is split into a training set and a testing set. The model attempts to e
 
 ## Results & Analysis
 
--The peak hours of customers were easily identifiable
--"Line plots" allowed us to view graphics,
+- The peak hours of customers were easily identifiable
+- "Line plots" allowed us to view graphics,
  while "heatmaps"
--The predictions made by the Random Forest algorithm proved to be reliable and precise.
--The results prove that time-related features are effective predictors of footfall trends.
+- The predictions made by the Random Forest algorithm proved to be reliable and precise.
+- The results prove that time-related features are effective predictors of footfall trends.
 
 ## Applications
 
--Retail Employee Scheduling
--Inventory management
--Store Layout Optimization
--Marketing and Promotion Planning
--"Customer Behavior Analysis"
+- Retail Employee Scheduling
+- Inventory management
+- Store Layout Optimization
+- Marketing and Promotion Planning
+- "Customer Behavior Analysis"
 
 ## Challenges
 
--The absence of retail industry data in the real world
--Little predictive capability
+- The absence of retail industry data in the real world
+- Little predictive capability
 SKETCH EXPLAN
--Small Dataset Size 
+- Small Dataset Size 
 Indeed,
--To tackle these challenges, the method utilized synthetic data, as well as a simplified machine learning solution.
+- To tackle these challenges, the method utilized synthetic data, as well as a simplified machine learning solution.
 
 ## Conclusion
 
