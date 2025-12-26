@@ -26,7 +26,9 @@ The project scope covers:
 Real-time data gathering and analysis for multiple stores is not included in this project.
 
 ###### Datasets Description
-For this project, a dataset has been created synthetically to represent real-world footfall at a retail store outlet.Dataset Attributes:
+
+For this project, a dataset has been created synthetically to represent real-world footfall at a retail store outlet.
+Dataset Attributes:
 Attribute
 1.Hour - Hour of the day (store operating hours)
 2.Footfall -  Number of customers visiting the store
