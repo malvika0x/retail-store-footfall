@@ -45,6 +45,8 @@ The data set is very simple and thus amenable to illustrating various ways of do
    Seaborn -Heat Map Visualization,
    Scikit-learn - machine learning,
 - **Development Environment:** Jupyter Notebook/VS Code
+  
+## use vs code virtual environment (.venv) for python and its respected libraries and packages 
 
 ## methodology
 
