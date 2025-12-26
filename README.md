@@ -1,11 +1,11 @@
 # Retail-Store-Footfall-Analysis
 
-```#Introduction
+```Introduction
 ```
 Retail Customer behavior analysis is crucial for optimizing the performance of a retail business and its customers. Footfall is one of the most prominent factors that reveal the behavior of customers because it represents the number of people going into the business at a particular time.
 In this project, we aim to analyze footfall in retail stores using data visualization and machine learning algorithms in Python to determine peak hours and customer visit trends.
 
-```#Problem Statement
+```Problem Statement
 ```
 Data for footfall is generated at a retail store periodically, but without proper analysis and graphical representations, it has become a difficult task to obtain any valuable information. It has become a difficult task for manual analysis to determine the peak hours and customer patterns. Hence, an automated technique for analyzing footfall data and estimating customer visits has become a necessity.
 
