@@ -28,6 +28,7 @@ Real-time data gathering and analysis for multiple stores is not included in thi
 ###### Datasets Description
 
 For this project, a dataset has been created synthetically to represent real-world footfall at a retail store outlet.
+
 Dataset Attributes:
 Attribute
 1.Hour - Hour of the day (store operating hours)
