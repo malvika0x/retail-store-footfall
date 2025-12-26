@@ -1,4 +1,4 @@
-# retail-store-footfall
+# Retail-Store-Footfall-Analysis
 
 #Introduction
 Retail Customer behavior analysis is crucial for optimizing the performance of a retail business and its customers. Footfall is one of the most prominent factors that reveal the behavior of customers because it represents the number of people going into the business at a particular time.
