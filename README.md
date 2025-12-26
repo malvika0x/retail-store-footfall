@@ -11,18 +11,18 @@ Data for footfall is generated at a retail store periodically, but without prope
 
 ## Objectives
 
--To study the hourly data of footfall in retail stores
--For determination of peak and off-peak customer hours
--For Visualizing Footfall Trends using Line Graphs and Heat Maps
--For applying a machine learning model for predicting footfall
--To comprehend the application of data analysis in decision-making in retailing
+- To study the hourly data of footfall in retail stores
+- For determination of peak and off-peak customer hours
+- For Visualizing Footfall Trends using Line Graphs and Heat Maps
+- For applying a machine learning model for predicting footfall
+- To comprehend the application of data analysis in decision-making in retailing
 
 ## Scope
 
 The project scope covers:
--Hourly Footfall Data Analysis at an Individual Retail Outlet
--Use of synthetic data for academic implementation
--Prediction of footfall using simple machine learning algorithms
+- Hourly Footfall Data Analysis at an Individual Retail Outlet
+- Use of synthetic data for academic implementation
+- Prediction of footfall using simple machine learning algorithms
 Real-time data gathering and analysis for multiple stores is not included in this project.
 
 ## Datasets Description
