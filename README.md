@@ -31,20 +31,20 @@ For this project, a dataset has been created synthetically to represent real-wor
 
 **Dataset Attributes:**
 Attribute
-1.Hour - Hour of the day (store operating hours)
-2.Footfall -  Number of customers visiting the store
+1. **Hour** - Hour of the day (store operating hours)
+2. **Footfall** -  Number of customers visiting the store
 The data set is very simple and thus amenable to illustrating various ways of doing analyses and predictions.
 
 ## Tools & Technologies
 
--Programming Language: Python
--Libraries Used:
+- **Programming Language:** Python
+- **Libraries Used:**
 Pandas - Data Manipulations
 NumPy - numerical operations
 Matplotlib: visualization of a line graph
 Seaborn -Heat Map Visualization
 Scikit-learn - machine learning
--Development Environment: Jupyter Notebook/VS Code
+- **Development Environment:** Jupyter Notebook/VS Code
 
 ## methodology
 
