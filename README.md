@@ -39,22 +39,22 @@ The data set is very simple and thus amenable to illustrating various ways of do
 
 - **Programming Language:** Python
 - **Libraries Used:**
-Pandas - Data Manipulations
-NumPy - numerical operations
-Matplotlib: visualization of a line graph
-Seaborn -Heat Map Visualization
-Scikit-learn - machine learning
+   Pandas - Data Manipulations
+   NumPy - numerical operations
+   Matplotlib: visualization of a line graph
+   Seaborn -Heat Map Visualization
+   Scikit-learn - machine learning
 - **Development Environment:** Jupyter Notebook/VS Code
 
 ## methodology
 
--Create and load the footfall data
--Handle missing values Normalize
--Examining Data Using Exploratory Data Analysis
--Footfall analysis can be represented using graphs to visualize
--Develop a machine learning model that has the ability to
--Evaluate model performance
--Result Interpretation
+- Create and load the footfall data
+- Handle missing values Normalize
+- Examining Data Using Exploratory Data Analysis
+- Footfall analysis can be represented using graphs to visualize
+- Develop a machine learning model that has the ability to
+- Evaluate model performance
+- Result Interpretation
 
 ## visualisation(Line Plot + Heatmap)
 
